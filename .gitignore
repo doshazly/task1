@@ -1,0 +1,5 @@
+# Ignore a folder
+folderignore-folder/
+
+# Ignore a file
+indexignore.txt
